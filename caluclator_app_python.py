@@ -31,5 +31,6 @@ if __name__ == '__main__':
       print('Output : {}'.format(my_answer))
   except Exception as exce:
     print('Program Crashed... because of {}'.format(str(exce)))
+    print('Please check your code for more information...')
   
   
